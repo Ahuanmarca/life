@@ -1,4 +1,5 @@
 # life
+https://ahuanmarca.github.io/life/
 
 Proyecto iniciado con `gitinit`.
 
